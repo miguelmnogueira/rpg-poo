@@ -1,0 +1,14 @@
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\bin\Debug\net8.0\DesafioModulo2.exe
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\bin\Debug\net8.0\DesafioModulo2.deps.json
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\bin\Debug\net8.0\DesafioModulo2.runtimeconfig.json
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\bin\Debug\net8.0\DesafioModulo2.dll
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\bin\Debug\net8.0\DesafioModulo2.pdb
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.AssemblyInfoInputs.cache
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.AssemblyInfo.cs
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.csproj.CoreCompileInputs.cache
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.dll
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\refint\DesafioModulo2.dll
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.pdb
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\DesafioModulo2.genruntimeconfig.cache
+C:\Users\Sesi2\Documents\Programming\2025\back-end\Modulo2\DesafioModulo2\obj\Debug\net8.0\ref\DesafioModulo2.dll
