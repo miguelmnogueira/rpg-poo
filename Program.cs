@@ -135,16 +135,16 @@
                 case MenuEnum.Fight:
                     m = new Menu("", "");
                     Console.Clear();
-                    //Console.WriteLine("\n\n Sua aventura começa...");
-                    //Thread.Sleep(4000);
-                    //Console.Clear();
-                    //Console.WriteLine($"\n\nO grande heroi {hero.Class} anda pelas masmorras");
-                    //Thread.Sleep(3000);
-                    //Console.WriteLine($"\naté que...");
-                    //Thread.Sleep(3000);
-                    //Console.Clear();
-                    //Console.WriteLine("\n\nSe depara com um grande Orc");
-                    //Thread.Sleep(3000);
+                    Console.WriteLine("\n\n Sua aventura começa...");
+                    Thread.Sleep(4000);
+                    Console.Clear();
+                    Console.WriteLine($"\n\nO grande heroi {hero.Class} anda pelas masmorras");
+                    Thread.Sleep(3000);
+                    Console.WriteLine($"\naté que...");
+                    Thread.Sleep(3000);
+                    Console.Clear();
+                    Console.WriteLine("\n\nSe depara com um grande Orc");
+                    Thread.Sleep(3000);
                     Console.WriteLine("então a luta se inicia...");
                     break;
                 case MenuEnum.Turn:
