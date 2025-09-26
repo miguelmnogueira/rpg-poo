@@ -1,4 +1,4 @@
-﻿namespace DesafioModulo2
+namespace DesafioModulo2
 {
     internal class Program
     {
@@ -88,21 +88,24 @@
 
                 } while (orc.Health > 0 && hero.Health > 0);
                 Console.Clear();
-                if (hero.Health != 0)
-                {
-                    Console.Clear();
-                    Console.WriteLine("\n\n####################################");
-                    Console.WriteLine("           VOCE GANHOU!");
-                    Console.WriteLine("####################################");
+                while (true) {
+                    if (hero.Health != 0)
+                    {
+                        Console.Clear();
+                        Console.WriteLine("\n\n####################################");
+                        Console.WriteLine("           VOCE GANHOU!");
+                        Console.WriteLine("####################################");
 
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("\n\n####################################");
+                        Console.WriteLine("            VOCE MORREU");
+                        Console.WriteLine("####################################");
+                    }
                 }
-                else
-                {
-                    Console.Clear();
-                    Console.WriteLine("\n\n####################################");
-                    Console.WriteLine("            VOCE MORREU");
-                    Console.WriteLine("####################################");
-                }
+                
             }
 
         }
